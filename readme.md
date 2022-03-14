@@ -13,6 +13,7 @@ The goal of the project is to create simple website with authentication capabili
 # Features #
 
 * SQL injection protected
+* Password protection using sha-256 hash function 
 * Correctly handles most of error messages
 * Full of memes 
 
